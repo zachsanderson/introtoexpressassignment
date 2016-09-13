@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/zachsanderson/introtoexpressassignment/issues"
   },
-  "homepage": "https://github.com/zachsanderson/introtoexpressassignment#readme"
+  "homepage": "https://github.com/zachsanderson/introtoexpressassignment#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
