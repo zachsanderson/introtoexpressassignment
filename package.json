@@ -1,0 +1,19 @@
+{
+  "name": "intro-to-express",
+  "version": "1.0.0",
+  "description": "Assignment for Udemy Web Dev Bootcamp Intro to Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zachsanderson/introtoexpressassignment.git"
+  },
+  "author": "Zach Sanderson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zachsanderson/introtoexpressassignment/issues"
+  },
+  "homepage": "https://github.com/zachsanderson/introtoexpressassignment#readme"
+}
